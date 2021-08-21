@@ -47,28 +47,28 @@ Below is a comparison between the models on both unscaled and scaled data along 
 
 ## Unscaled Logistic Regression:
 
-Training Data Score: 0.6677339901477832
-Testing Data Score: 0.6133560187154402
+* Training Data Score: 0.6677339901477832
+* Testing Data Score: 0.6133560187154402
 
 ![Screen Shot 2021-08-21 at 9 52 38 AM](https://user-images.githubusercontent.com/78628287/130323924-abce1baf-c1d3-454f-af5b-dafa8f783bc5.png)
 
 ## Scaled Logistic Regression:
 
-Training Data Score: 0.6858784893267652
-Testing Data Score: 0.6816248404934071
+* Training Data Score: 0.6858784893267652
+* Testing Data Score: 0.6816248404934071
 
 ![Screen Shot 2021-08-21 at 9 53 28 AM](https://user-images.githubusercontent.com/78628287/130323957-14ee6c2e-e07f-4075-ab07-a5b59632218f.png)
 
 ## Unscaled Random Forest Classifer:
 
-Training Score: 1.0
-Testing Score: 0.7103360272224585
+* Training Score: 1.0
+* Testing Score: 0.7103360272224585
 
 ![Screen Shot 2021-08-21 at 9 54 52 AM](https://user-images.githubusercontent.com/78628287/130323974-8a881db0-5c58-4729-aba9-3a0c28e8bd86.png)
 
 ## Scaled Random Forest Classifer:
 
-Training Score: 1.0
-Testing Score: 0.7096980008507018
+* Training Score: 1.0
+* Testing Score: 0.7096980008507018
 
 ![Screen Shot 2021-08-21 at 9 55 22 AM](https://user-images.githubusercontent.com/78628287/130323984-87fd18ae-22e8-4ccf-82cd-8aaacdf95301.png)
