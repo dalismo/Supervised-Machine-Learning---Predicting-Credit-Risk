@@ -41,6 +41,6 @@ The Logistic Regression model will perform better on the scaled data due to the 
 
 ## Comparisons of Models - Both Unscaled and Scaled Data
 
-Below is a comparison between the models on both unscaled and scaled data.
+Below is a comparison between the models on both unscaled and scaled data along with the accuracy data.
 
 ![Screen Shot 2021-08-21 at 9 34 11 AM](https://user-images.githubusercontent.com/78628287/130323465-1182a61f-e307-4d44-8d6d-15cb9ddad177.png)
