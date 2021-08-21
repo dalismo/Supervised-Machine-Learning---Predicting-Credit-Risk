@@ -35,9 +35,9 @@ Create a LogisticRegression model, fit it to the data, and print the model's sco
 
 ## Predictions 
 
-The RandomForestClassifier model will perform better on the unscaled data based on the fact that it has higher train and test accuracies. Also due in part to it's model complexity. 
+The Random Forest Classifier model will perform better on the unscaled data based on the fact that it has higher train and test accuracies. Also due in part to it's model complexity. 
 
-The LogisticRegression model will perform better on the scaled data due to the sensitivity to the range of the data points.
+The Logistic Regression model will perform better on the scaled data due to the sensitivity to the range of the data points.
 
 ## Comparisons of Models - Both Unscaled and Scaled Data
 
